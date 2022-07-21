@@ -1,3 +1,5 @@
+![Title](banner.png)
+
 # Exohood Branding
 
 # Usage
